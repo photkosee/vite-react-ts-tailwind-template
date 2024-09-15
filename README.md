@@ -1,7 +1,7 @@
 # React + TypeScript + Vite + Tailwind CSS template
 
 ## Features
-- Raect 18
+- React 18
 - TypeScript
 - Vite
 - Tailwind CSS
